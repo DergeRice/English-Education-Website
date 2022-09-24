@@ -1,0 +1,76 @@
+1^	 mankind	*	 인류; (모든) 인간, 사람들	|
+2^	 darkness	*	 어둠, 암흑, 캄캄함	|
+3^	 overcome 	*	이기다, 극복하다	|
+4^	send	*	(보내다) - sent(보냈다) -sent(보내진)	|
+5^	witness	*	증인,목격자	|
+6^	concerning	*	∼에 관한	|
+7^	so that ∼ may	*	: ∼하게 하려고	|
+8^	recognize	*	알아보다	|
+9^	right	*	옳은 ,정확한, 좋은, 즉시, 권리(권한)	|
+10^	descent	*	 내려오기, 하강, 혈통, 가문	|
+11^	will	*	의지, ∼할 것이다(미래)	|
+12^	bear	*	(낳다) - bore(낳았다) -born(태어난)	|
+13^	not A but B	*	A가 아니라 B	|
+14^	 flesh 	*	 살, 고기, 피부 , 육체	|
+15^	 dwelling 	*	 주거(지), 주택	|
+16^	 the one and only Son 	*	독생자(예수)	|
+17^	 testify 	*	 증언진술]하다, 증명하다	|
+18^	 concerning 	*	 에 관한관련된]	|
+19^	 surpass 	*	 능가하다, 뛰어넘다	|
+20^	 in place of 	*	~을 대신해서	|
+21^	 Moses 	*	 모세	|
+22^	 No ∼ ever 	*	결코 ∼ 아닌	|
+23^	 closest  	*	가장 가까운	|
+24^	 relationship 	*	관계	|
+25^	testimony 	*	 증거, 증언	|
+26^	priest 	*	 제사장, 사제신부]	|
+27^	Levite 	*	 레위(Levi) 지파의 사람, 레위 사람	|
+28^	confess 	*	 (죄를)자백하다, 고백인정]하다	|
+29^	freely 	*	 자유롭게, 막힘없이, 방해받지 않고	|
+30^	Messiah 	*	 메시아, 구세주	|
+31^	Elijah 	*	 엘리야(이름)	|
+32^	Prophet 	*	 선지자예언자]	|
+33^	Isaiah 	*	 이사야(이름)	|
+34^	wilderness 	*	 광야, 황야, 황무지	|
+35^	Pharisee 	*	 바리새인	|
+36^	baptize 	*	 세례를 주다	|
+37^	strap 	*	 (가죽천 등으로 된) 끈줄/띠]	|
+38^	Bethany 	*	 베다니(지명)	|
+39^	Jordan 	*	 요르단	|
+40^	toward 	*	 ∼쪽으로, ∼을 향하여	|
+41^	Lamb 	*	 새끼양, 어린양	|
+42^	takes away 	*	(통증) 없애주다. 제거하다, 물러가다	|
+43^	surpass 	*	 (격식) 능가하다, 뛰어넘다	|
+44^	baptize 	*	 세례를 주다	|
+45^	reveal 	*	 (비밀 등을) 드러내다밝히다/폭로하다]	|
+46^	testimony 	*	 증거,증언	|
+47^	Holy Spirit 	*	기독교에서 성령	|
+48^	testify 	*	 증언진술]하다	|
+49^	disciples 	*	 제자	|
+50^	pass	*	 지나가다, 통과하다	|
+51^	Lamb 	*	 어린 양	|
+52^	Rabbi 	*	 (유대교의 지도자·교사인) 랍비, 선생님	|
+53^	Peter	*	 베드로 (12사도 중의 한 사람)	|
+54^	Andrew	*	 안드레 (12사도 중의 한 사람)	|
+55^	Simon 	*	 시몬 (12사도 중의 한 사람)	|
+56^	Messiah 	*	 메시아, 구세주	|
+57^	bring 	*	가져오다, 데려오다	|
+58^	Galilee 	*	 갈릴리 (이스라엘 북부 지방)	|
+59^	Philip 	*	 빌립, 예수의 12제자의 한 사람	|
+60^	Andrew 	*	 안드레, 예수의 12제자의 한 사람	|
+61^	Peter 	*	 베드로, 예수의 12제자의 한 사람	|
+62^	Bethsaida 	*	벳새다, Galilee 호(湖) 북쪽 해안 근방의 옛 도시	|
+63^	Nathanael 	*	 나다나엘	|
+64^	Moses 	*	 모세	|
+65^	prophet 	*	 선지자, 예언자	|
+66^	Nazareth 	*	 나사렛 (Palestine 북부의 작은 도시)	|
+67^	Joseph 	*	 요셉	|
+68^	approach 	*	 다가가다	|
+69^	Israelite 	*	 (성서에 묘사된) 고대 히브리인	|
+70^	deceit 	*	 속임수, 사기, 기만	|
+71^	declare 	*	 선언선포/공표]하다	|
+72^	Rabbi 	*	 랍비, 선생님	|
+73^	Israel 	*	 이스라엘	|
+74^	fig tree 	*	무화과 나무	|
+75^	ascend 	*	 오르다, 올라가다	|
+76^	descend 	*	 내려오다, 내려가다	|

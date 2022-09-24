@@ -1,0 +1,25 @@
+1^Aenon*애논|
+2^kingdom*왕국,왕토|
+3^miraculous*기적적인,신기한|
+4^spiritual*정신의,정신적인|
+5^Nicodemus*니코데모|
+6^Pharisee*바리새인|
+7^Judea*유대|
+8^eternal*영원한,변치않는|
+9^guilty*유죄의|
+10^womb*자궁,태내|
+11^religious*종교의|
+12^bride*신부,새색시|
+13^heavenly*하늘의,천상의|
+14^darkness*어두움,암흑|
+15^argument*논쟁,논의|
+16^go back*돌아가다|
+17^a second time*재차,다시|
+18^lift up*들어 올리다|
+19^so that*~하기 위해서|
+20^come from*출신이다|
+21^get away*벗어나다,탈출하다|
+22^belong to*속하다,소속이다|
+23^talk about*~에 대해 이야기하다|
+24^I'm sure*정말로,분명히|
+25^plenty of*많은|

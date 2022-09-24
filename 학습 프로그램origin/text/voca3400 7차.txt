@@ -1,0 +1,20 @@
+1^poison*독,독살하다|
+2^anger*화,화나게 하다|
+3^thrill*흥분,흥분시키다|
+4^comflict*갈등,충돌하다|
+5^rent*임대하다,빌려주다|
+6^bend*구부리다,숙이다|
+7^annoy*화나게 하다|
+8^invade*침략하다,침해하다|
+9^wander*돌아다니다,배회하다|
+10^insure*보장하다,보험에 들다|
+11^bless*축복하다|
+12^afford*여유가 있다|
+13^lean*구부리다,호리호리한|
+14^civil*시민의,민간의|
+15^distand*먼|
+16^steady*꾸준한|
+17^vital*필수적인,활기찬|
+18^universal*보편적인|
+19^ariticial*인공의,인조의|
+20^seemingly*겉보기에|

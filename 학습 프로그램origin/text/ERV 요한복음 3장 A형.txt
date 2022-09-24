@@ -1,0 +1,25 @@
+1^evil*악,사악,악한|
+2^blow*바람 불다|
+3^leader*지도자,선도자|
+4^obey*복종하다,순종하다|
+5^proof*증명,증거|
+6^unless*~하지 않으면|
+7^assure*보장하다|
+8^whoever*누구든지|
+9^fully*충분히,완전히|
+10^accept*받아들이다|
+11^judge*판사,재판하다|
+12^spirit*영혼,정신|
+13^parent*부모님|
+14^physical*육체의,물질의|
+15^whatever*무엇이든|
+16^surprise*놀라게 하다|
+17^heaven*천국,하늘|
+18^wherever*어디 든지|
+19^possible*가능한|
+20^because*때문에|
+21^important*중요한|
+22^receive*받다,수령하다|
+23^prepare*준비하다|
+24^prison*감옥,교도소|
+25^understand*이해하다|

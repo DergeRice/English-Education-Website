@@ -1,0 +1,25 @@
+1^wedding*결혼식,혼례|
+2^leave*남기다,떠나다|
+3^invite*초대하다|
+4^enough*충분한,충분히|
+5^yet*아직,지금까지|
+6^servant*하인,부하|
+7^piece*한 조각|
+8^exchange*교환하다|
+9^dove*비둘기|
+10^force*강요하다,힘|
+11^trade*매매하다,거래하다|
+12^cattle*소 떼|
+13^area*지역,구역|
+14^pigeon*집 비둘기|
+15^remember*기억하다,상기하다|
+16^whip*채찍,채찍질하다|
+17^miracle*기적,경이로움|
+18^death*죽음,사망|
+19^raise*위로 올리다|
+20^festival*축제,잔치|
+21^anyone*아무도,누구도|
+22^person*사람,인간|
+23^follower*수행자,추종자|
+24^own*자기 자신의|
+25^strong*강한,튼튼한|

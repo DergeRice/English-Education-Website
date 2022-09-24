@@ -1,0 +1,25 @@
+1^Israel*이스라엘|
+2^Nathanael *나다나엘|
+3^Israelite*이스라엘의 자손|
+4^Nazareth*나사렛|
+5^prophet*예언자,선지자|
+6^Bethsaida*베싸이다,벳새다|
+7^Galilee*갈릴리|
+8^Cephas*게바|
+9^Messiah*메시아,구세주|
+10^Rabbi*랍비,율법 박사|
+11^baptize*세례를 베풀다|
+12^Bethany*베다니|
+13^string*끈,노끈,줄|
+14^Elijah*엘리야|
+15^Pharisee*바리새인|
+16^Isaiah*이사야|
+17^hesitation*망설임,주저함|
+18^plainly*분명히,숨김없이|
+19^Jerusalem*예루살렘|
+20^Jewish*유대인의|
+21^Levite*레위 사람|
+22^priest*성직자,목사|
+23^come from*출신이다|
+24^fig tree*무화과 나무|
+25^the next day*그 다음날|

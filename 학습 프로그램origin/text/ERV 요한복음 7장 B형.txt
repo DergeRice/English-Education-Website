@@ -1,0 +1,25 @@
+1^secret*비밀,비밀의|
+2^find out*알아내다|
+3^scripture*성서,경전|
+4^thirsty*목마른,갈증나는|
+5^prophet*선지자,예언자|
+6^Greek*그리스인|
+7^arrest*체포,체포하다|
+8^priest*성직자,목사|
+9^be able to*할 수 있다|
+10^decision*결정,판단|
+11^by the way*그런데|
+12^Messiah*메시아|
+13^pharisee*바리새인|
+14^ancestor *조상,선조|
+15^circumcision*할례 의식|
+16^Sabbath*안식일|
+17^crazy*미친듯이,정상이 아닌|
+18^temple*신전,교회당|
+19^be afraid of*두려워 하다|
+20^travel*여행하다|
+21^Jewish*유대인의,유대교의|
+22^Galilee*갈릴리|
+23^shelter*주거지,피난처|
+24^What you do*당신이 하는 것|
+25^be looking for*찾고 있다|

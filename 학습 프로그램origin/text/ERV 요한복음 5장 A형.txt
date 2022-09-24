@@ -1,0 +1,25 @@
+1^accept*받아들이다|
+2^human*인간,인간의|
+3^proof*증명,증거|
+4^respect*존경하다,존경|
+5^death*죽음,사망|
+6^allow*허락하다,허가하다|
+7^grave*무덤,묘비|
+8^judgment*재판,심판|
+9^please*기쁘게 하다|
+10^remind*생각나게 하다|
+11^equal*동등한,같은|
+12^question*질문하다,질문|
+13^worse*보다 나쁜,악화된|
+14^later*더 늦은,나중에|
+15^special*특별한,독특한|
+16^pool*물웅덩이,저수지|
+17^blind*눈 먼,장님의|
+18^against*반대하여,대비하여|
+19^carry*운반하다,나르다|
+20^enough*충분한,충분히|
+21^anyone*누구도,아무도|
+22^sure*확실한,틀림없는|
+23^sheep*양,양 떼|
+24^raise*위로 올리다|
+25^else*그 밖에,그 외에|

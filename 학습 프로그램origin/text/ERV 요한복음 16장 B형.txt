@@ -1,0 +1,25 @@
+1^Synagogue*시나고그,유대교회당|
+2^in fact*실제로,사실|
+3^warn*경고하다|
+4^go away*떠나가다|
+5^condemn*비난하다|
+6^be filled with*가득 차다|
+7^a short time*단시간에|
+8^each other*서로 서로|
+9^take away*제거하다,치우다|
+10^pain*고통,괴로움|
+11^forget*잊다,망각하다|
+12^by ~ing*함으로써|
+13^possible*가능한,할수 있는|
+14^guilty*유죄의|
+15^meaning*의미,뜻|
+16^be able to*할 수 있다|
+17^face*직면하다,얼굴|
+18^have to*해야 한다|
+19^plainly*분명히,숨김없이|
+20^defeat*쳐부수다,지우다|
+21^so that*위해서|
+22^scatter*흩어지게 하다|
+23^happiness*행복,행운|
+24^anything*무언가,어떤 것도|
+25^judgment*판단,재판|

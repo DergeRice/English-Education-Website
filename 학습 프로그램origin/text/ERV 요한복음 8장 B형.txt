@@ -1,0 +1,25 @@
+1^stoop*몸을 구부리다|
+2^authority*권한,권력|
+3^arrest*체포,체포하다|
+4^witness*목격자,증인|
+5^what you say*당신이 말하는 것|
+6^guilty*유죄의|
+7^murderer*살인자,살인범|
+8^olive*올리브나무|
+9^in front of*앞에,앞쪽에|
+10^adultery*간통|
+11^command*명령,명령하다|
+12^so that*위해서|
+13^pick up*줍다,차 태우다|
+14^believe in*신앙을 믿다|
+15^descendant*자손,후손|
+16^try to*하려고 노력하다|
+17^Jewish*유대인의,유대교의|
+18^honor*명예,신의|
+19^prophet*선지자,예언자|
+20^Pharisee*바리새인|
+21^trick*속임수,장난|
+22^demon*악마,귀신|
+23^one by one*하나하나씩|
+24^lift up*들어 올리다|
+25^look for*찾다,구하다|

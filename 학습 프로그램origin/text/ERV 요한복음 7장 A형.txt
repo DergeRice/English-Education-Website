@@ -1,0 +1,25 @@
+1^agree*동의하다|
+2^glory*영광,찬양|
+3^longer*더 오래|
+4^decide*결정하다,결심하다|
+5^judge*판사,판단하다|
+6^sometimes*때때로|
+7^obey*복종하다,순종하다|
+8^without*없이|
+9^should*해야한다|
+10^miracle*기적,경이로움 |
+11^festival*축제,잔치|
+12^amaze*놀라게 하다|
+13^brave*용감한|
+14^real*진짜의,실제의|
+15^area*지역,구역|
+16^grab*붙잡다,움켜잡다|
+17^important *중요한|
+18^receive*받아들이다|
+19^trust*신뢰,신뢰하다|
+20^honor*존경,공경|
+21^answer*대답,대답하다|
+22^leader*지도자,대표|
+23^finish*끝내다,마치다|
+24^openly*터놓고,솔직하게|
+25^spirit*영혼,정신|

@@ -1,0 +1,25 @@
+1^branch*나뭇가지,갈라지다|
+2^donkey*당나귀|
+3^come from*출신이다|
+4^throw out*버리다|
+5^much more*더 많이|
+6^be willing to*흔쾌히 하다|
+7^give up*포기하다|
+8^crowd*군중,무리|
+9^Lazarus*라자루스|
+10^a pint of*1파인트|
+11^moneybag*돈주머니,지갑|
+12^burial*매장,장례식|
+13^stay out of*피하다|
+14^palm tree*야자나무|
+15^Iscariot*이스가리옷,배반자|
+16^wheat*밀|
+17^suffer*겪다,고통을 받다|
+18^Isaiah*이사야|
+19^Israel*이스라엘|
+20^everywhere*모든 곳,어디서나|
+21^hand over*이양하다,인도하다|
+22^praise*칭찬,칭찬하다|
+23^worship*예배,예배하다|
+24^Greek*그리스인|
+25^Bethany*베다니|

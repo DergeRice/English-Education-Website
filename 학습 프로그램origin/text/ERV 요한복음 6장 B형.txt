@@ -1,0 +1,25 @@
+1^crowd*군중,대중|
+2^miraculous *기적적인,신기한|
+3^complain*불평하다,한탄하다|
+4^barley*보리,대맥|
+5^plenty*많음,풍부|
+6^shore*바닷가,해변|
+7^satisfy*만족시키다|
+8^spoil*망쳐놓다,썩다|
+9^ruin*파괴하다,파멸|
+10^qualify*권한을 주다|
+11^ancestor*조상,선조|
+12^manna*만나,하늘의 은총|
+13^synagogue*시나고그,유대인 집회|
+14^apostle*사도,기독교 전도자|
+15^Iscariot*이스가리옷,배반자|
+16^prophet*예언자,선각자|
+17^go up to*가까이 가다|
+18^so that*하기 위해서|
+19^each other *서로 서로|
+20^get into*타다,들어가다|
+21^hand over*이양하다,인도하다|
+22^as much as*만큼,정도|
+23^thanks for*덕분에|
+24^a lot of*많은|
+25^be looking for*찾고 있다|

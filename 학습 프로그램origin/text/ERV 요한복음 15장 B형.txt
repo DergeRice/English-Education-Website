@@ -1,0 +1,25 @@
+1^vine*포도나무,덩굴식물|
+2^gardener*정원사|
+3^cut off*중단시키다|
+4^produce*생산하다|
+5^trim*다듬다,손질하다|
+6^even more*더욱 더|
+7^connect*연결하다,잇다|
+8^plenty of*많은|
+9^separate*갈라지다,분리된|
+10^throw out*버리다|
+11^ask for*요청하다,요구하다|
+12^in the same way*같은 방법으로|
+13^command*명령하다|
+14^so that*위해서|
+15^completely*완전히,전적으로|
+16^each other*서로 서로|
+17^no longer*더 이상|
+18^belong to*속하다|
+19^what I did*내가 한 것|
+20^be able to*할 수 있다|
+21^excuse*용서하다,변명하다|
+22^no one*아무도 없다|
+23^whoever*누구든지|
+24^whatever*무엇이든지|
+25^guilty*유죄의|

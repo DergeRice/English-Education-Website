@@ -1,0 +1,25 @@
+1^while*하는 동안,반면에|
+2^blind*눈이 먼,맹인|
+3^since*이래로,때문에|
+4^happen*일어나다,발생하다|
+5^force*강요하다,힘|
+6^enough*충분한,충분히|
+7^already*이미,벌써|
+8^decide*결정하다,결심하다|
+9^really*정말로,실제로|
+10^continue*계속하다|
+11^world*세계,지구|
+12^mud*진흙,진창|
+13^parent*부모님|
+14^obey*복종하다,순종하다|
+15^leave*남기다,떠나다|
+16^bow*절하다,활|
+17^people*사람들|
+18^strange*이상한,낯선|
+19^shout*소리 외치다|
+20^someone*어떤사람,누군가|
+21^heal*치료하다,치유되다|
+22^cause*원인이 되다|
+23^later*나중에,뒤에|
+24^sin*죄,죄를 짓다|
+25^follower*추종자,신봉자|

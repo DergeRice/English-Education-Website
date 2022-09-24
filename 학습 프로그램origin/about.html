@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <title>더지라이스의 작업실 - About</title>
+
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- Boostrap Core CSS-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Animate CSS -->
+    <link href="css/animate.css" rel="stylesheet">
+
+    <!-- Google fonts -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Qwigley">
+    <!-- Font awesome -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    function openTextFile() {
+
+    var input = document.createElement("input");
+
+
+
+    input.type = "file";
+
+    input.accept = "text/plain";
+
+
+
+    input.onchange = function (event) {
+
+    processFile(event.target.files[0]);
+
+    };
+
+
+
+    input.click();
+
+    }
+
+
+
+    function processFile(file) {
+
+    var reader = new FileReader();
+
+
+
+    reader.onload = function () {
+
+    output.innerText = reader.result;
+
+    };
+
+
+
+    reader.readAsText(file, /* optional */ "euc-kr");
+
+    }
+
+    </script>
+
+
+
+</head>
+<body>
+
+    <script type="text/javascript">
+        $(function () {
+            $("#target").load("new.txt");
+        });
+    </script>
+<pre><div id="target"></div></pre>
+
+
+    <div id="page-wrapper">
+
+        <h1>Text File Reader</h1>
+        <div>
+            Select a text file:
+            <input type="file" id="fileInput">
+        </div>
+<pre id="fileDisplayArea"><pre>
+
+    </div>
+
+    <script>
+        window.onload = function () {
+            var fileInput = document.getElementById('fileInput');
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+
+            fileInput.addEventListener('change', function (e) {
+                var file = fileInput.files[0];
+                var textType = /text.*/;
+
+                if (file.type.match(textType)) {
+                    var reader = new FileReader();
+
+                    reader.onload = function (e) {
+                        fileDisplayArea.innerText = reader.result;
+                    }
+
+                    reader.readAsText(file);
+                } else {
+                    fileDisplayArea.innerText = "File not supported!"
+                }
+            });
+        }
+        var burgerMenu = function () {
+
+            $('body').on('click', '.js-fh5co-nav-toggle', function (event) {
+                var $this = $(this);
+
+
+                if ($('body').hasClass('overflow offcanvas')) {
+                    $('body').removeClass('overflow offcanvas');
+                } else {
+                    $('body').addClass('overflow offcanvas');
+                }
+                $this.toggleClass('active');
+                event.preventDefault();
+
+            });
+        };
+
+    </script>
+
+    <h1>HTML</h1>
+
+    <p>
+
+        <button onclick="openTextFile()">Open</button>
+
+        <div id='output'>...</div>
+
+    </p>
+
+
+
+
+</body>
+</html>

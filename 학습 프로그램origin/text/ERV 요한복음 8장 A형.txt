@@ -1,0 +1,25 @@
+1^early*이른,빠른,일찍|
+2^Jew*유대인,유대교도|
+3^obey*복종하다,순종하다|
+4^charge*청구하다,고소하다|
+5^catch*잡다,붙잡다|
+6^bring*가져오다|
+7^husband*남편|
+8^understand*이해하다|
+9^offer*제안하다,제공하다|
+10^above*보다 위에|
+11^beginning*시작,초반|
+12^truth*사실,진리|
+13^alone*혼자,홀로|
+14^darkness*어두움,암흑|
+15^slave*노예|
+16^accept*받아들이다|
+17^promise*약속,약속하다|
+18^liar*거짓말쟁이|
+19^continue*계속하다|
+20^force*강요하다,힘|
+21^worth*가치,값어치|
+22^devil*악마,마귀|
+23^someone*어떤사람,누군가|
+24^children*어린이들|
+25^sin*죄,죄악|

@@ -1,0 +1,25 @@
+1^prepare*준비하다|
+2^truth*진리,참|
+3^believe*믿다,신용하다|
+4^own*자기 자신의|
+5^miracle*기적,경이로움|
+6^another*또 다른 하나|
+7^forever*영원히,끊임없이|
+8^helper*조력자,원조자|
+9^spirit*영혼,정신|
+10^alone*혼자,홀로|
+11^accept*받아들이다|
+12^leave*남기다,떠나다|
+13^obey*복종하다,순종하다|
+14^world*세계 🌍 |
+15^should*해야 한다|
+16^father*아버지 👨 |
+17^teach*가르치다|
+18^peace*평화|
+19^different*다른,특이한|
+20^place*두다,장소|
+21^cause*원인이 되다,원인|
+22^assure*보증하다,보장하다|
+23^greater*보다 큰|
+24^afraid*두려워하는|
+25^ruler*통치자,지배자|

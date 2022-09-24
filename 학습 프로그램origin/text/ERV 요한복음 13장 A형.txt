@@ -1,0 +1,25 @@
+1^leader*지도자,대표|
+2^lord*지배자,군주|
+3^never*한 적이 없다|
+4^later*더 늦은,나중에|
+5^wrap*포장하다,감싸다|
+6^understand*이해하다|
+7^already*이미,벌써|
+8^quickly*빨리,빠르게|
+9^lean*기대다,의지하다|
+10^openly*숨김없이,터놓고|
+11^accept*받아들이다|
+12^assure*보증하다,보장하다|
+13^share*분배하다,나누다|
+14^blessing*축복,신의 은총|
+15^example*보기,예|
+16^master*정복하다,지배하다|
+17^whole*전부의,모든|
+18^should*해야 한다|
+19^pour*물을 붓다,흘리다|
+20^almost*거의,대체로|
+21^evening*저녁,해질녘|
+22^waist*허리|
+23^bowl*사발,큰 그릇 🥣 |
+24^towel*타월,수건|
+25^meal*식사|

@@ -1,0 +1,20 @@
+1^request*요청,요청하다|
+2^comment*논평,논평하다|
+3^debate*토론,토론하다|
+4^defeat*패배,패배시키다|
+5^strike*부딪치다,파업하다|
+6^frighten*무섭게 하다|
+7^obtain*얻다,획득하다|
+8^extend*연장하다,확장하다|
+9^rely*의존하다,믿다|
+10^hire*고용하다|
+11^announce*발표하다|
+12^represent*나타내다,표시하다|
+13^analyze*분석하다|
+14^plain*명백한,평야|
+15^vast*광대한,거대한|
+16^suitable*적당한,적합한|
+17^critical*비판적인,중대한|
+18^indifferent*무관심한|
+19^unexpected*예기치 않은|
+20^aside*따로 두고,제쳐놓고|

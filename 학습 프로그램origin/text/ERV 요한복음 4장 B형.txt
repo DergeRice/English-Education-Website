@@ -1,0 +1,25 @@
+1^official*공무원,공무상의|
+2^Christ*그리스도|
+3^thirsty*목마른|
+4^although*일지라도,불구하고|
+5^grain*곡물,곡류|
+6^Passover*유월절|
+7^worship*예배,참배|
+8^Jerusalem*예루살렘|
+9^salvation*구조,구제|
+10^eternal*영원한,변치않는|
+11^ancestor*조상,선조|
+12^miraculous*기적적인,신기한|
+13^prophet*예언자,선각자|
+14^Samaria*사마리아|
+15^baptize*세례를 베풀다|
+16^pharisee*바리새인|
+17^talk to*말을 걸다|
+18^have to*해야 한다|
+19^even now*바로,곧|
+20^come back*돌아오다|
+21^because of*때문에|
+22^in fact*사실은,실제|
+23^come from*출신이다|
+24^believe in*인격을 믿다|
+25^be ready for*준비가 되다|

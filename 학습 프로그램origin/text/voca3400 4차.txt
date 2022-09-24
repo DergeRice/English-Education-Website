@@ -1,0 +1,20 @@
+1^harvest*수확,수확하다|
+2^review*검토,복습하다|
+3^grab*잡아채기,잡아채다|
+4^puzzle*퍼즐|
+5^claim*주장하다|
+6^blame*잘못의 책임|
+7^vote*투표|
+8^arrange*준비하다|
+9^adapt*적응하다|
+10^combine*결합하다|
+11^disturb*방해하다|
+12^reveal*드러내다|
+13^nominate*지명하다|
+14^ideal*이상|
+15^contrary*정반대|
+16^smooth*매끄러운|
+17^exact*정확한|
+18^rare*드문|
+19^useless*쓸모없는|
+20^likewise*마찬가지로|

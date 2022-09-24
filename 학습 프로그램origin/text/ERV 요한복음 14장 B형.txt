@@ -1,0 +1,25 @@
+1^trust in*믿다|
+2^so that*위해서|
+3^for a long time*오랫동안|
+4^because of*때문에|
+5^ask for*요구하다,요청하다|
+6^orphan*고아|
+7^come back*돌아오다|
+8^anymore*더 이상,이제는|
+9^a short time*단 시간에|
+10^not only A but also B*A뿐만 아니라 B도|
+11^Let's go*갑시다|
+12^come from*출신이다|
+13^longer*더 오래|
+14^exactly*정확히,틀림없이|
+15^through*통해서|
+16^Judas*유다|
+17^Iscariot*이스가리옷,배반자|
+18^anyone*누구나|
+19^everything*모든 것,모두|
+20^whoever*누구든지|
+21^anything*무엇이든지|
+22^remember*기억하다|
+23^really*진짜로,정말로|
+24^trouble*문제,골칫거리,수고|
+25^command*명령하다|

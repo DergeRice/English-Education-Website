@@ -1,0 +1,20 @@
+1^leisure*레저,여가|
+2^literature*문학|
+3^privacy*사생활|
+4^duty*의무,직무,세금|
+5^poverty*가난,빈곤|
+6^policy*정책,보험증권|
+7^improvement*개선,향상|
+8^expectation*기대,예상|
+9^fantasy*공상,공상소설|
+10^destruction*파괴|
+11^comfort*편안함,위로하다|
+12^regard*간주하다,존경|
+13^swing*그네,흔들다|
+14^manufacture*제조,제조하다|
+15^misunderstand*오해하다|
+16^attach*첨부하다,붙이다|
+17^select*고르다|
+18^amaze*놀라게 하다|
+19^discourage*낙담하다|
+20^relieve*완화하다|

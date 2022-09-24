@@ -1,0 +1,10 @@
+﻿1^until*우리는 그의 기술을 배운다.|
+2^up to*나는 그녀의 일기장을 덮다.|
+3^as far as*큰|
+4^pretty*괜찮은, 옳바른| 
+5^quite*알겠어|
+6^rather*좋아하다| 
+7^in other words*보다|
+8^that is to say*주위에| 
+9^namely*알다|
+10^at once*많은|

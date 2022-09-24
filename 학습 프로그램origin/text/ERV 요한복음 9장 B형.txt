@@ -1,0 +1,25 @@
+1^stay out*외박하다|
+2^so that*위해서|
+3^daytime*낮,주간|
+4^put on*옷을 입다|
+5^spit*침을 뱉다|
+6^be afraid of*두려워 하다|
+7^punish*처벌하다|
+8^sinner*죄인|
+9^be able to*할 수 있다|
+10^Siloam*실로암|
+11^worship*예배,예배하다|
+12^each other*서로 서로|
+13^come from*출신이다|
+14^Messiah*메시아,구세주|
+15^Sabbath*안식일|
+16^insult*모욕,모욕하다|
+17^prophet*선지자,예언자|
+18^miraculous*기적적인|
+19^dirt*먼지,흙|
+20^synagogue*유대교 회당|
+21^try to*하려고 노력하다|
+22^guilty*유죄의|
+23^honor*존경,공경|
+24^look like*처럼 보이다|
+25^neighbor*이웃,이웃 나라|

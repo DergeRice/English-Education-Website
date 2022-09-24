@@ -1,0 +1,25 @@
+1^lose*잃다,놓쳐버리다|
+2^plain*분명한,명백한|
+3^service*서비스,봉사|
+4^prepare*준비하다|
+5^woman*여자,여성|
+6^child*어린이|
+7^birth*탄생,출생|
+8^remember*기억하다,상기하다|
+9^sadness*슬픔,비애|
+10^follower*수행원,추종자|
+11^wrong*잘못된,그릇된|
+12^never*절대로 아니다|
+13^prove*증명하다|
+14^question*질문,질문하다|
+15^speak*이야기하다|
+16^future*미래,장래|
+17^glory*영광,명예|
+18^peace*평화|
+19^another*또 다른 하나|
+20^hide*숨기다,감추다|
+21^alone*혼자,홀로|
+22^understand*이해하다|
+23^brave*용감한,용사|
+24^change*바꾸다,변경하다|
+25^faith*믿음,신앙심|

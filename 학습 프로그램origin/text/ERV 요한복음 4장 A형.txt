@@ -1,0 +1,25 @@
+1^mountain*산,산악|
+2^harvest*수확,수확하다|
+3^since*그 때 이후|
+4^profit*이익,이득|
+5^Jew*유대인|
+6^servant*하인,부하|
+7^happen*일어나다,발생하다|
+8^plant*식물,식물 심다|
+9^Messiah*메시아|
+10^gather*모으다,수집하다|
+11^explain*설명하다|
+12^heal*치료하다,낫게 하다|
+13^spirit*영혼,정신|
+14^spring*도약하다,봄|
+15^report*보고하다,통보하다|
+16^respect*존경하다|
+17^fever*열병,열|
+18^finish*끝내다,마치다|
+19^jar*항아리,단지|
+20^festival*축제,잔치|
+21^truth*진리,참|
+22^follower*수행자,수행원|
+23^country*나라,국가,시골|
+24^learn*배우다|
+25^surprise*놀라게 하다|

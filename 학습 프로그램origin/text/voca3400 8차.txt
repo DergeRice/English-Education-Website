@@ -1,0 +1,20 @@
+1^freshman*신입생|
+2^facility*재능,시설|
+3^peninsula*반도|
+4^oxygen*산소|
+5^layer*층|
+6^explosion*폭발|
+7^pace*속도,한 걸음|
+8^incident*사건|
+9^photography*사진술|
+10^make up*화장|
+11^guard*경비원|
+12^dust*먼지|
+13^sacrifice*희생|
+14^purchase*구입품|
+15^construct*구성하다|
+16^crash*추락|
+17^delay*연기하다|
+18^appeal*요청|
+19^operate*작동하다,운영하다|
+20^motivate*동기를 부여하다|

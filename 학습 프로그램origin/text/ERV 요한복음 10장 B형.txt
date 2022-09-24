@@ -1,0 +1,25 @@
+1^certainly*분명히,틀림없이|
+2^take care of*돌보다|
+3^shepherd*양치기|
+4^lead out*앞장서다|
+5^run away*도망치다|
+6^go out*외출하다|
+7^scatter*흩어지게 하다|
+8^flock*무리,떼|
+9^no one*아무도 없다|
+10^get back*돌아오다,되찾다|
+11^divide*나누다,나뉘다|
+12^dedication*헌신,봉헌식|
+13^escape*탈출하다,달아나다|
+14^be able to*할 수 있다|
+15^destroy*파괴하다,부수다|
+16^crazy*미친듯이,정상아닌|
+17^porch*현관,입구|
+18^Who I am?*내가 누구냐?|
+19^insult*모욕,모욕하다|
+20^pick up*줍다,차 태우다|
+21^try to*하려고 노력하다|
+22^baptize*세례를 베풀다|
+23^eternal*영원한,끊임없는|
+24^Jerusalem*예루살렘|
+25^scripture*성서,경전|

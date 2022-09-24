@@ -1,0 +1,736 @@
+﻿
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width" , initial-scale=1>
+    <title>영어 학습 프로그램 &mdash; 로고스영어 단어 학습 프로그램</title>
+
+    <meta name="description" content="로고스영어 단어 학습 프로그램" />
+    <meta name="keywords" content="로고스영어 단어 학습 프로그램" />
+    <meta name="author" content="DergeRice" />
+    <!---->
+    <!--<meta name="viewport" content="user-scalable=yes, initial-scale=0.5, maximum-scale=4.0, minimum-scale=0.3, width=1200px" />
+       -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+
+    <!--배껴옴-->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+
+
+    <!-- <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">	 -->
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+  
+
+    <script src="https://voice.luzspat.com/js/cloudvoice.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body style=" margin-left: 0px; margin-right: 0px; ">
+
+
+
+    <div id="page">
+
+        <nav class="fh5co-nav" role="navigation">
+            <div class="top-menu">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-2">
+
+                            <a div class="filebox" id="FileOpenBtn">
+
+                                <!--<label for="fileInput" href="#layer2" class="btn-exampleon">저장하기</label>-->
+
+                                <ul>
+                                    <li class="btn-cta"><a href="#layer2" class="btn-example"><span style="width: 100px;" >저장하기</span></a></li>
+
+
+                                </ul>
+
+                            </a>
+                            <a div id="number"></a>
+                        </div>
+
+                        <div class="col-xs-8 text-right">
+
+                            <ul>
+                                <!--<li class="btn-cta"><a href="#layer2" class="btn-example"><span>설정</span></a></li>-->
+                                <li class="btn-cta"><a href="index.html" class="VocaMake"><img class="home" src="images/home.png"></img></a></li>
+                                <!-- <li class="btn-cta"><a href="index.html" class="VocaMake"><span>홈</span></a></li> -->
+                            </ul>
+
+
+
+                        </div>
+
+
+    <div class="dim-layer">
+        <div class="dimBg"></div>
+        <div id="layer2" class="pop-layer">
+            <div class="pop-container">
+                <div class="pop-conts">
+                    <!--content //-->
+                                <p class="ctxt mb20">
+                                    단어 이름을 설정해 주세요.
+                                    <input class="input-word" type="text" name="FileName" id="FileName">
+                                </p>
+
+                                <button href="#" class="btn-r btn-layerClose">확인</button>
+                                <!--// content-->
+                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+
+        <header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner">
+            <div id="audio"></div>
+            <div class="overlay"></div>
+            <div class="container">
+                <div>
+                    <div class="wrap">
+                        <div class="text-center">
+                            <div class="display-t js-fullheight">
+                                <div class="display-tc " data-animate-effect="fadeIn">
+                                    <div class="title">로고스보카는 10개 이상 부터 지원합니다.</div>
+                                    <div class="input-area">
+                                        <div>영어 : <input type="text" name="Eng" id="ENG" placeholder="Example" onfocus="this.placeholder=''" onblur="this.placeholder='Example'"></div>
+                                        <div style="margin-left: 5px;">한글 : <input type="text" name="Kor" id="KOR" placeholder="예시입니다" onfocus="this.placeholder=''" onblur="this.placeholder='예시입니다'"></div>
+                                    </div>
+
+
+
+                                    <p>
+                                        <input value="학습시작하기" id="MainBtn" class="btn btn-primary btn-lg btn-demo" onclick="pro1();
+                                            if (k != 0) { k = 0; this.value = '일시정지'; }
+                                            else { pro1(); k = 1; this.value = '계속하기'; }" readonly>
+                                    </p>
+                                </div>
+                                <div class="btn-w">
+                                    <a href="#" class="btn-cta" onclick="ADD();" style="margin-right:80px"><span>입력하기</span></a>
+                                    <a href="#" class="button" onclick="SubTract();"><img src="images/back.png" style="width: 45px;"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" col-md-10  text-left">
+                            <h1 id="fileDisplayArea" text-left></h1>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <!-- Modal -->
+
+
+            <script src="https://code.jquery.com/jquery-latest.js"></script>
+
+            <style>
+                /* The Modal (background) */
+                .modal {
+                    display: none; /* Hidden by default */
+                    position: fixed; /* Stay in place */
+                    z-index: 1; /* Sit on top */
+                    left: 0;
+                    top: 0;
+                    width: 100%; /* Full width */
+                    height: 100%; /* Full height */
+                    overflow: auto; /* Enable scroll if needed */
+                    background-color: rgb(0,0,0); /* Fallback color */
+                    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+                }
+
+                /* Modal Content/Box */
+                .modal-content {
+                    background-color: #fefefe;
+                    margin: 15% auto; /* 15% from the top and centered */
+                    padding: 20px;
+                    border: 1px solid #888;
+                    width: 30%; /* Could be more or less, depending on screen size */
+                }
+            </style>
+
+
+
+
+            <!--End Modal-->
+
+
+            <script type="text/javascript">
+
+                jQuery(document).ready(function () {
+                    $('#myModal').show();
+                });
+                //팝업 Close 기능
+                function close_pop(flag) {
+                    $('#myModal').hide();
+                };
+
+            </script>
+
+
+
+        </header>
+
+    </div>
+
+
+
+
+
+
+
+    <script>
+        var k = 1;
+        var orgin = new String;
+        var result_indexOf;
+        var date = new Date();
+        var last_num;
+        var real_num;
+        var num = [];
+        var voc_num = [];
+        var voc_kor = [];
+        var voc_eng = [];
+        var voc_voc = [];
+        var spited;
+        var i;
+        var real_num_index;
+        var txt = [];
+        var extp_num;
+        var eng_bar;
+        var spitgg = [];
+        var timeid = null;
+        var total_repeat_time = 1;
+        var one_repeat_time = 1;
+        var time_set_time;
+        var VocNum = 1;
+        var SavingText = "";
+        var Temp = [];
+        var SavingTemp = [];
+        function change() // no ';' here
+        {
+            var elem = document.getElementById("myButton1");
+            if (elem.value == "Close Curtain") elem.value = "Open Curtain";
+            else elem.value = "Close Curtain";
+        }
+        MainBtn.style.display = 'none'
+
+        window.onload = function () {
+
+            var fileInput = document.getElementById('fileInput');
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+            var fileDisplay = document.getElementById('fileDisplay');
+
+            //real_num = orgin.charAt(last_num) + orgin.charAt(last_num + 1);
+            fileInput.addEventListener('change', function (e) {
+                var file = fileInput.files[0];
+                var textType = /text.*/;
+
+
+                if (file.type.match(textType)) {
+                    var reader = new FileReader();
+                    reader.readAsText(file);
+                    FileOpenBtn.style.display = 'none'
+                    MainBtn.style.display = 'block'
+                }
+            });
+        }
+
+
+        var second = 3000;
+        var k = 1;
+        var lastnum = 0;
+
+        var temp = 1;
+        var num_stack = [];
+        var temp_voc_kor = [];
+        var temp_voc_eng = [];
+        var temp_real_num;
+
+
+        function ADD() {
+            
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+            var KOR = document.getElementById('KOR').value;
+            var ENG = document.getElementById('ENG').value;
+            if (KOR != "" && ENG != "") {
+            Temp[1] = fileDisplayArea.innerHTML;
+            Temp[VocNum] = Temp[1];
+            SavingTemp[1] = SavingText;
+            SavingTemp[VocNum] = SavingTemp[1];
+
+
+            fileDisplayArea.innerHTML += VocNum + "." + ENG + "/" + KOR + "<br>";
+            SavingText += VocNum + "^" + ENG + "*" + KOR + "|\n";
+            document.getElementById('KOR').value = "";
+            document.getElementById('ENG').value = "";
+                VocNum++;
+            }
+            else alert("단어를 입력하세요.")
+        }
+        function SubTract() {
+
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+            if (VocNum > 0) {
+                //fileDisplayArea.innerHTML;
+
+                fileDisplayArea.innerHTML = Temp[VocNum - 1];
+                SavingText = SavingTemp[VocNum - 1];
+                VocNum--;
+            }
+            if (VocNum == 1) {
+                fileDisplayArea.innerHTML = "";
+                SavingText = "";
+                VocNum = 1;
+            }
+            if (VocNum == 0) {
+                fileDisplayArea.innerHTML = "";
+                SavingText = "";
+                VocNum = 1;
+            }
+
+        }
+        function Save() {
+            var hiddenElement = document.createElement('a');
+            var FileName = document.getElementById('FileName').value;
+            document.execCommand('SaveAs');
+            hiddenElement.href = 'data:attachment/text,' + encodeURI(SavingText);
+            hiddenElement.target = '_blank';
+            hiddenElement.download = FileName + ".txt";
+            hiddenElement.click();
+        }
+        //팝업 레이어 시작
+        $('.btn-example').click(function () {
+            var $href = $(this).attr('href');
+            layer_popup($href);
+        });
+        function layer_popup(el) {
+
+            var $el = $(el);        //레이어의 id를 $el 변수에 저장
+            var isDim = $el.prev().hasClass('dimBg');   //dimmed 레이어를 감지하기 위한 boolean 변수
+
+            isDim ? $('.dim-layer').fadeIn() : $el.fadeIn();
+
+            var $elWidth = ~~($el.outerWidth()),
+                $elHeight = ~~($el.outerHeight()),
+                docWidth = $(document).width(),
+                docHeight = $(document).height();
+
+            // 화면의 중앙에 레이어를 띄운다.
+            if ($elHeight < docHeight || $elWidth < docWidth) {
+                $el.css({
+                    marginTop: -$elHeight / 2,
+                    marginLeft: -$elWidth / 2
+                })
+            } else {
+                $el.css({ top: 0, left: 0 });
+            }
+
+            $el.find('.btn-layerClose').click(function () {
+                isDim ? $('.dim-layer').fadeOut() : $el.fadeOut();
+                Save();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                return false;
+            });
+
+            $('.layer .dimBg').click(function () {
+                $('.dim-layer').fadeOut();
+                return false;
+            });
+
+
+
+        }
+
+        $(document).ready(function () {
+            $('.trigger').on('click', function () {
+                $('.modal-wrapper').toggleClass('open');
+                $('.page-wrapper').toggleClass('blur-it');
+                return false;
+            });
+        });
+
+    </script>
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!-- jQuery Easing -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- Flexslider -->
+    <script src="js/jquery.flexslider-min.js"></script>
+    <!-- Main -->
+    <script src="js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="speakClient.js"></script>
+    
+   
+
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=fkBWECqu"></script>
+
+
+
+
+
+
+    <style>
+        .h1 {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            max-width: 100%;
+            position: absolute;
+            text-align: center;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            vertical-align: middle
+        }
+
+        #jb {
+            width: 100%;
+            height: 20px;
+            color: #dd356e;
+        }
+    </style>
+
+    <!-- JavaScript Libraries -->
+    <style>
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        /* Modal Content/Box */
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 30%; /* Could be more or less, depending on screen size */
+        }
+
+
+        .btn-example {
+            text-align: center;
+        }
+
+        .page-wrapper {
+            width: 100%;
+            height: 100%;
+            background: url(https://goo.gl/OeVhun) center no-repeat;
+            background-size: cover;
+        }
+
+        .blur-it {
+            filter: blur(4px);
+        }
+
+        a.btn {
+            width: 200px;
+            padding: 18px 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            text-align: center;
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #fff;
+            border-radius: 0;
+            background: #e2525c;
+        }
+
+        .modal-wrapper {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background: rgba(41, 171, 164, 0.8);
+            visibility: hidden;
+            opacity: 0;
+            transition: all 0.25s ease-in-out;
+        }
+
+            .modal-wrapper.open {
+                opacity: 1;
+                visibility: visible;
+            }
+
+        .modal {
+            width: 600px;
+            height: 400px;
+            display: block;
+            margin: 50% 0 0 -300px;
+            position: relative;
+            top: 50%;
+            left: 50%;
+            background: #fff;
+            opacity: 0;
+            transition: all 0.5s ease-in-out;
+        }
+
+        .modal-wrapper.open .modal {
+            margin-top: -200px;
+            opacity: 1;
+        }
+
+        .head {
+            width: 90%;
+            height: 32px;
+            padding: 12px 30px;
+            overflow: hidden;
+            background: #e2525c;
+        }
+
+        .btn-close {
+            font-size: 28px;
+            display: block;
+            float: right;
+            color: #fff;
+        }
+
+        .content {
+            padding: 10%;
+        }
+
+        .good-job {
+            text-align: center;
+            font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+            color: #e2525c;
+        }
+
+            .good-job .fa-thumbs-o-up {
+                font-size: 60px;
+            }
+
+            .good-job h1 {
+                font-size: 45px;
+            }
+
+        .wrap {
+            text-align: center;
+            margin: 0px auto;
+        }
+
+            .wrap img {
+                width: 100%;
+                height: auto
+            }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            margin: 100px;
+        }
+
+        .pop-layer .pop-container {
+            padding: 30px 25px;
+        }
+
+        .pop-layer p.ctxt {
+            font-size: 20px;
+            font-weight: 700;
+            color: #dd356e;
+            line-height: 25px;
+        }
+
+        .pop-layer .btn-r {
+            font-size: 20px;
+            font-weight: 700;
+            color: #FFFFE5;
+            width: 30%;
+            border: none;
+            border-radius: 20px;
+            background-color: #dd356e;
+            text-align: center;
+        }
+
+        .pop-layer {
+            display: none;
+            position: absolute;
+            border-radius: 20px;
+            top: 50%;
+            left: 50%;
+            width: 410px;
+            height: auto;
+            background-color: #FFFFE5;
+            border: 5px solid #DF9BB2;
+            z-index: 10;
+            text-align: center;
+        }
+
+        .dim-layer {
+            display: none;
+            position: fixed;
+            _position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 100;
+        }
+
+            .dim-layer .dimBg {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: #000;
+                opacity: .5;
+                
+            }
+
+            .dim-layer .pop-layer {
+                display: block;
+            }
+
+        a.btn-layerClose {
+            display: inline-block;
+            height: 25px;
+            padding: 0 14px 0;
+            /* border: 1px solid #304a8a;
+            background-color: #dd356e; */
+            font-size: 13px;
+            color: #fff;
+            line-height: 25px;
+        }
+
+            a.btn-layerClose:hover {
+                /* border: 1px solid #091940;
+                background-color: #dd356e; */
+                color: #fff;
+            }
+
+
+        .filebox label {
+            display: inline-block;
+            min-width: 100px;
+            position: absolute;
+            padding: .5em .75em;
+            color: #fff;
+            font-size: inherit;
+            line-height: normal;
+            vertical-align: middle;
+            background-color: #dd356e;
+            cursor: pointer;
+            border: 0px solid #4cae4c;
+            border-radius: .25em;
+            -webkit-transition: background-color 0.2s;
+            transition: background-color 0.2s;
+        }
+
+            .filebox label:hover {
+                background-color: #DF0174;
+            }
+
+            .filebox label:active {
+                background-color: #DF0174;
+            }
+
+        .filebox input[type="file"] {
+            position: absolute;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        .input-area {
+            display: flex;
+            width: auto;
+            font-weight: 700;
+            justify-content: center;
+            align-items: center;
+        }
+
+        @media screen and (max-width: 768px) {
+            .input-area {
+                display: block;
+            }
+        }
+
+        .btn-w .btn-cta {
+            color: #fff;
+            background: #dd356e;
+            padding: 10px 20px;
+            display: -moz-inline-stack;
+            display: inline-block;
+            zoom: 1;
+            *display: inline;
+            -webkit-transition: 0.3s;
+            -o-transition: 0.3s;
+            transition: 0.3s;
+            -webkit-border-radius: 100px;
+            -moz-border-radius: 100px;
+            -ms-border-radius: 100px;
+            border-radius: 100px;
+        }
+    </style>
+
+
+
+</body>
+</html>

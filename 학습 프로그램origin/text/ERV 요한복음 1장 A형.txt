@@ -1,0 +1,25 @@
+1^already*이미,벌써|
+2^heaven*천국,하늘|
+3^desire*바라다,원하다|
+4^loudly*큰 소리로|
+5^Moses*모세|
+6^Jesus*예수|
+7^decide*결정하다,결심하다|
+8^bring *가져오다|
+9^accept*받아들이다|
+10^everything*모든 것|
+11^usually*보통,대개|
+12^lamb*어린 양|
+13^happen*일어나다,발생하다|
+14^greatness*위대함,거대함|
+15^sin*죄,죄악|
+16^grace*은혜,은총|
+17^untie*매듭을 풀다|
+18^sandal*샌들|
+19^desert*사막,황무지|
+20^defeat*쳐부수다|
+21^beginning*시작,최초|
+22^through*통하여|
+23^shine*빛나게 하다|
+24^darkness*어두움,암흑|
+25^blessing*축복,신의 은총|

@@ -1,0 +1,40 @@
+1^awake awoke awoken*잠에 깨다|
+2^forgive forgave forgiven*용서하다|
+3^hide hid hidden*숨기다,감추다|
+4^lie lay lain*눕다,누워 있다|
+5^sink sank sunk*가라앉다|
+6^bear bore born*새끼 낳다|
+7^begin began begun*시작하다|
+8^bite bit bitten*물다|
+9^blow blew blown*바람 불다|
+10^break broke broken*깨뜨리다,부수다|
+11^choose chose chosen*고르다,선택하다|
+12^do did done*하다|
+13^draw drew drawn*당기다,그리다|
+14^drink drank drunk*마시다|
+15^drive drove driven*운전하다|
+16^eat ate eaten*먹다|
+17^fall fell fallen*떨어지다|
+18^fly flew flown*날다|
+19^forget forgot forgotten*잊다|
+20^get got gotten*얻다|
+21^give gave given*주다|
+22^go went gone*가다|
+23^grow grew grown*자라다|
+24^know knew known*알다|
+25^mistake mistook mistaken*실수하다|
+26^ride rode ridden*자전거 타다|
+27^ring rang rung*소리 울리다|
+28^rise rose risen*오르다|
+29^see saw seen*보다|
+30^shake shook shaken*흔들다|
+31^show showed shown*보여주다|
+32^sing sang sung*노래하다|
+33^speak spoke spoken*말하다|
+34^steal stole stolen*훔치다|
+35^swim swam swum*수영하다|
+36^take took taken*가져가다|
+37^throw threw thrown*던지다|
+38^wake woke woken*깨우다,일어나다|
+39^wear wore worn*옷을 입다|
+40^write wrote written*글을 쓰다|

@@ -1,0 +1,32 @@
+﻿1^until*우리는 그의 기술을 배운다.|
+2^up to*나는 그녀의 일기장을 덮다.|
+3^as far as*큰|
+4^pretty*괜찮은, 옳바른| 
+5^quite*알겠어|
+6^rather*좋아하다| 
+7^in other words*보다|
+8^that is to say*주위에| 
+9^namely*알다|
+10^at once*많은|
+11^at a time*받아들이다| 
+12^at the same time*가지다|
+13^once in a while*집|
+14^now and then*돌보다| 
+15^sometimes*잃어버린| 
+16^occasionally*공|
+17^from time to time*대단한| 
+18^because*팀| 
+19^since*의성어| 
+20^as*찾다|
+21^because of*dd|
+22^due to*dd|
+23^owing to*dd|
+24^through*dd|
+25^by the way of*dd|
+26^by means of*dd|
+27^at last*dd|
+28^eventually*dd|
+29^in the end*dd|
+30^I will go to church*나는 교회를 갈것이다.|
+
+

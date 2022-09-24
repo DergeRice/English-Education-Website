@@ -1,0 +1,1501 @@
+﻿
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width" , initial-scale=1>
+    <title>영어 학습 프로그램 &mdash; 로고스영어 단어 학습 프로그램</title>
+
+    <meta name="description" content="로고스영어 단어 학습 프로그램" />
+    <meta name="keywords" content="로고스영어 단어 학습 프로그램" />
+    <meta name="author" content="DergeRice" />
+    <!---->
+    <!--<meta name="viewport" content="user-scalable=yes, initial-scale=0.5, maximum-scale=4.0, minimum-scale=0.3, width=1200px" />
+       -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--배껴옴-->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+
+
+    <!-- <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">	 -->
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    
+
+    <script src="https://voice.luzspat.com/js/cloudvoice_nqc2k2is9jscsj2.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body style=" margin-left: 0px; margin-right: 0px; ">
+
+
+
+    <div id="page">
+
+        <nav class="fh5co-nav" role="navigation">
+            <div class="top-menu">
+                <div>
+                    <div>
+                        <div class="header">
+
+                            <a div class="filebox" id="FileOpenBtn">
+
+                                <label for="fileInput">불러오기</label>
+                                <input type="file" id="fileInput" value="파일선택">
+
+                            </a>
+
+                        </div>
+                        <div align:center class="number" id="number" style=" text-align:center;"></div>
+                        <div class="right-btn text-right">
+                            <label><div class="btn-cta"><a href="Making.html" class="VocaMake"><span>편집</span></a></div></label>
+                            <div><a href="#layer2" class="btn-example"><img class="img-setting" src="images/setting.png"></a></div>
+
+
+
+                        </div>
+
+
+                        <div class="dim-layer">
+                            <div class="dimBg"></div>
+                            <div id="layer2" class="pop-layer">
+                                <div class="pop-container">
+                                    <div align="right" class="pop-conts">
+                                        <!--content //-->
+                                        <div class="ctxt mb20">
+                                            <!--<div class="setting-wrap">
+        초 설정<div class="set-conts"><span class="btn">▲</span><span>3</span><span class="btn">▼</span></div>
+    </div>
+    <div class="setting-wrap">
+        단일 반복 설정<div class="set-conts"><span class="btn">▲</span><span>1</span><span class="btn">▼</span></div>
+    </div>
+    <div class="setting-wrap">
+        전체 반복 설정<div class="set-conts"><span class="btn">▲</span><span>1</span><span class="btn">▼</span></div>
+    </div>
+    -->
+                                            <div>초 설정 <input class="input-conts" type="text" name="Sec" id="Sec" value="5"></div>
+                                            <div>단일 반복 설정 <input class="input-conts" type="text" name="Repeat" id="Repeat" value="1"></div>
+                                            <div>전체 반복 설정 <input class="input-conts" type="text" name="WholeRepeat" id="WholeRepeat" value="1"></div>
+                                        </div>
+
+                                        <div class="btn-wrapper">
+
+                                            <button href="#" class="btn-r btn-SettinglayerClose">적용</button>
+                                            <button href="#" class=" btn-r btn-layerCloseCancle">취소</button>
+
+                                        </div>
+
+                                        <!--// content-->
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+                        <div class="um-layer">
+                            <div class="dimBg"></div>
+                            <div id="layer3" class="pop-layer">
+                                <div class="pop-container">
+                                    <div align="center"  class="pop-conts">
+                                        <!--content //-->
+                                        
+                                        <ul>
+                                            <ul class="menu">
+                                                <div>▼ERV 요한복음▼</div>
+                                                <ul class="hide">
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 1장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 1장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 1장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 1장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 1장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 2장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 2장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 2장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 2장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 2장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 3장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 3장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 3장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 3장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 3장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 4장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 4장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 4장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 4장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 4장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 5장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 5장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 5장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 5장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 5장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 6장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 6장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 6장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 6장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 6장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 7장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 7장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 7장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 7장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 7장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 8장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 8장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 8장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 8장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 8장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 9장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 9장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 9장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 9장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 9장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 10장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 10장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 10장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 10장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 10장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 11장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 11장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 11장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 11장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 11장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 12장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 12장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 12장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 12장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 12장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 13장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 13장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 13장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 13장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 13장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 14장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 14장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 14장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 14장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 14장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 15장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 15장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 15장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 15장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 15장 B형</a></div></li>
+
+                                                        </ul>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 16장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 16장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 16장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 16장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 16장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 17장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 17장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 17장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 17장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 17장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 18장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 18장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 18장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 18장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 18장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                    <li class="menu">
+                                                        <div>ERV 요한복음 19장</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='ERV 요한복음 19장 A형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 19장 A형</a></div></li>
+                                                            <li><div><a href="#" id='ERV 요한복음 19장 B형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">ERV 요한복음 19장 B형</a></div></li>
+
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </ul>
+                                            <!--// content-->
+                                            <ul class="menu">
+                                                <div>▼불규칙동사▼</div>
+                                                <ul class="hide">
+                                                    <li class="menu">
+                                                        <div>불규칙동사1</div>
+                                                        <ul class="hide">
+                                                            <li><div><a href="#" id='불규칙동사 ABC형.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">불규칙동사 ABC형</a></div></li>
+
+
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                                <ul class="menu">
+                                                    <div>▼VOCA 3400▼</div>
+                                                    <ul class="hide">
+                                                        <li class="menu">
+                                                            <div>1차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 1차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 1차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>2차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 2차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 2차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>3차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 3차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 3차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>4차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 4차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 4차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>5차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 5차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 5차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>6차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 6차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 6차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>7차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 7차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 7차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>8차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 8차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 8차</a></div></li>
+
+
+                                                            </ul>
+                                                            <div>14차</div>
+                                                            <ul class="hide">
+                                                                <li><div><a href="#" id='voca3400 14차.txt' class="btn-layerClose" onclick="ClickAdd(this.id)">VOCA 3400 14차</a></div></li>
+
+
+                                                            </ul>
+</ul>
+  
+                                                </ul>
+                                            </ul>
+
+                                            </li>
+                                        </ul>
+
+</div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+                    </div>
+            </div>
+        </nav>
+
+
+        <header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner">
+            <div id="audio"></div>
+            <div class="overlay"></div>
+            <div class="container">
+                <div>
+                    <div class="wrap">
+                        <div class=" col-md-10  text-center">
+                            <div class="display-t js-fullheight">
+                                <div class="display-tc " data-animate-effect="fadeIn">
+
+
+
+                                    <h1 style="padding-top: 30px;" id="fileDisplayArea"></h1>
+                                    <div>
+                                        <progress value="0" max=3000 id="jb"></progress>
+                                    </div>
+
+
+
+
+                                    <div>
+                                        <input align:center value="학습시작하기" id="MainBtn" class="btn btn-primary btn-lg btn-demo MainBtn" onclick="soundEffect.autoplay = true; pro1() ; 
+    if (k != 0) { k = 0; this.value = '일시정지' ; }
+    else { pro1(); k = 1; this.value = '계속하기'; }  id='MainBtn'" readonly>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!--<a href="test.txt" download>테스트 다운로드</a>-->
+            <div><a href="#layer3" class="btn-example"><img class="img-cloud" src="images/cloud.png" onclick="soundEffect.autoplay = true;"></a></div>
+
+            <div class="entry">
+
+
+
+            </div>
+
+        </header>
+
+    </div>
+
+
+
+
+
+
+
+    
+
+
+
+
+    <!-- Modal -->
+
+
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+
+    
+
+
+
+
+    <!--End Modal-->
+
+
+    <script type="text/javascript">
+
+        jQuery(document).ready(function () {
+            $('#myModal').show();
+        });
+        //팝업 Close 기능
+        function close_pop(flag) {
+            $('#myModal').hide();
+        };
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        var k = 1;
+        var orgin = new String;
+        var result_indexOf;
+        var date = new Date();
+
+        var real_num;
+        var num = [];
+        var voc_num = [];
+        var voc_kor = [];
+        var voc_eng = [];
+        var voc_voc = [];
+        var voc_kor_Store = [];
+        var voc_eng_Store = [];
+        var spited;
+        var i;
+        var real_num_index;
+        var txt = [];
+        var extp_num;
+        var eng_bar;
+        var spitgg = [];
+        var timeid = null;
+        var total_repeat_time = 1;
+        var one_repeat_time = 1;
+        var time_set_time;
+
+        var second = 1;
+        var lastnum = 0;
+        var outable = true;
+        var temp = 1;
+        var num_stack = [];
+        var temp_voc_kor = [];
+        var temp_voc_eng = [];
+        var temp_real_num;
+        var SettingSec = 3000;
+        var OneRepeatNow = 1;
+        var OneRepeat = 1;
+        var WholeRepeat = 1;
+        var WholeNowRepeat = 1;
+        var ran_num;
+        var now_ran_num;
+        var imfirst = true;
+        var mininum = 1;
+        var ending = false;
+        var fileInput
+        var fileDisplayArea
+        var fileDisplay
+        var file
+        var textType
+        var reader
+        var TextFileName
+        var audio = new Audio('sound/clap.mp3');
+        var audioAble = false;
+        const soundEffect = new Audio();
+
+        window.onload = function () { ReadyPage() }
+
+        function change() // no ';' here
+        {
+            var elem = document.getElementById("myButton1");
+            if (elem.value == "Close Curtain") elem.value = "Open Curtain";
+            else elem.value = "Close Curtain";
+        }
+        MainBtn.style.display = 'none'
+
+
+
+        function ReadyPage() {
+            fileInput = document.getElementById('fileInput');
+            fileDisplayArea = document.getElementById('fileDisplayArea');
+            fileDisplay = document.getElementById('fileDisplay');
+            fileDisplayArea.innerText = "학습할 단어를" + "\n" + "불러와 주세요(10~99개)"
+            Start();
+            
+
+        }
+        function Start() {
+
+            fileInput.addEventListener('change', function (e) {
+                file = fileInput.files[0];
+                textType = /text.*/;
+
+
+                if (file.type.match(textType)) {
+                    reader = new FileReader();
+                    Setting();
+                    reader.onload = function (File) {
+                        orgin = reader.result;
+                        TextFileName = fileInput.files[0].name;
+                        VocaSetting();
+                    }
+                    reader.readAsText(file);
+                    
+                } else {
+                    fileDisplayArea.innerText = "지원되지 " + "\n" + "않는 파일입니다."
+                }
+            });
+        }
+
+        function VocaSetting() {
+
+
+
+
+            last_num = orgin.lastIndexOf("^") - 2;
+            real_num = orgin.charAt(last_num) + orgin.charAt(last_num + 1);
+            temp_real_num = real_num;
+
+            num = new Array(real_num);
+            voc_num = new Array(real_num);
+            voc_kor = new Array(real_num);
+            voc_eng = new Array(real_num);
+            spited = origin.split('|');
+
+            txtSlice();
+
+            fileDisplayArea.innerText = real_num + "개의 문제" + "\n" + "시작합니다."
+            FileOpenBtn.style.display = 'none'
+            MainBtn.style.display = 'block'
+            audioAble = true;
+        }
+        function loadFile(filePath) {
+            var ssresult = null;
+            var xmlhttp = new XMLHttpRequest();
+            //var ss = 
+            xmlhttp.open("GET", "text/"+filePath, false);
+            xmlhttp.send();
+            if (xmlhttp.status == 200) {
+                ssresult = xmlhttp.responseText;
+            }
+            console.log(ssresult);
+            return ssresult;
+        }
+
+
+        function ClickAdd(fileNM) {
+
+            orgin = loadFile(fileNM);
+            soundEffect.autoplay = true;
+            VocaSetting();
+            TextFileName = fileNM;
+            //pro1();
+        }
+        function txtSlice() {
+            for (i = 1; i <= real_num; i++) {
+                num[i] = i + "^";
+
+                voc_kor[i] = 0;
+                voc_eng[i] = 0;
+
+
+            }
+            for (i = 1; i <= real_num; i++) {
+                txt[i] = orgin.indexOf(num[i]);
+
+            }
+            for (i = 1; i <= real_num; i++) {
+
+                voc_num[i] = txt[i];
+
+            }
+            extp_num = orgin;
+            for (i = 1; i <= real_num; i++) {
+
+
+                voc_voc[i] = orgin.substring(voc_num[i], voc_num[i + 1])
+                voc_voc[i] = voc_voc[i].replace(num[i], "");
+                spitgg[i] = voc_voc[i].split('*');
+                voc_eng[i] = spitgg[i];
+
+
+
+                voc_eng[i] = spitgg[i][0];
+                voc_kor[i] = spitgg[i][1].replace("|", "");
+
+
+
+
+            }
+            temp_voc_kor = voc_kor;
+            temp_voc_eng = voc_eng;
+            voc_kor_Store = [...voc_kor];
+            voc_eng_Store = [...voc_eng];
+
+        }
+
+        function pro1() {
+            
+            soundEffect.autoplay = true;
+
+            if (k == 1) {
+                result_indexOf = orgin.indexOf("1^");
+                /// fileDisplayArea.innerText =  result_indexOf;
+                timeid = setInterval(time, 25);
+                soundEffect.autoplay = true;
+                outable = false;
+                document.querySelector(".VocaMake").removeAttribute('href');
+                //OneRepeatNow = OneRepeat;
+                if (imfirst) {
+                    play()
+                    imfirst = false;
+                };
+            }
+            else { StopClock(); }
+
+        }
+        function jbFunc(n) {
+            document.getElementById('jb').value = n;
+        }
+        function time() {
+
+            if (second >= SettingSec)//시간초가 다된다면
+            {
+                second = 1
+
+                if (lastnum == 1 && OneRepeatNow == 1) {
+                    WholeRePlay();
+                    lastnum = 0;
+                } else {
+                    jbFunc(second);
+                    play();
+                }
+
+
+            } else {//다 되지 않고 재생중이라면
+                second = second + 25;
+                jbFunc(second);
+
+            }
+
+
+        }
+
+        function StopClock() {
+
+            if (timeid != null) {
+                clearInterval(timeid);
+            }
+
+        }
+
+
+
+
+        function play() {
+            // console.log(OneRepeatNow);
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+            var numChar;
+            var oneNumchar;
+            var WholeNumChar
+            if (temp_real_num > 0) {
+                if (OneRepeatNow == OneRepeat) {
+
+                    ran_num = getRandom(mininum, temp_real_num);
+                    temp_real_num = temp_real_num - 1;
+
+                }
+
+
+                fileDisplayArea.innerText = temp_voc_kor[ran_num] + "\n" + temp_voc_eng[ran_num];
+
+                ttsTest(ran_num);
+
+                if (real_num - temp_real_num > real_num || real_num - temp_real_num < 0) {
+                    numChar = real_num;
+                } else { numChar = real_num - temp_real_num; }
+
+                oneNumchar = OneRepeat - OneRepeatNow + 1;
+                WholeNumChar = WholeRepeat - WholeNowRepeat + 1;
+
+                if (OneRepeatNow == 1) {
+
+                    temp_voc_kor.splice(temp_voc_kor.indexOf(temp_voc_kor[ran_num]), 1);
+                    temp_voc_eng.splice(temp_voc_eng.indexOf(temp_voc_eng[ran_num]), 1);
+                    OneRepeatNow = OneRepeat;
+
+                } else {
+                    OneRepeatNow--;
+                }
+
+
+                number.innerHTML = TextFileName + "<div style='text-align:center'></div>" + "전체 반복 " + WholeNumChar + "번째   단일 반복" + oneNumchar + "번째     " + numChar + "번";
+
+                // number.innerHTML = fileNM + "<div style='text-align:center'></div>" + "전체 반복 " + WholeNumChar + "번째   단일 반복" + oneNumchar + "번째     " + numChar + "번";
+
+
+            }
+            else {//마지막 번호 라면
+                if (OneRepeatNow > 1) {//마지막 번호의 마지막 반복이 아니라면
+
+                    OneRepeatNow--;
+                    number.innerHTML = fileInput.files[0].name + "<div style='text-align:center'></div>" + "전체 반복 " + WholeNumChar + "번째   단일 반복" + oneNumchar + "번째     " + numChar + "번";
+                } else {//마지막 번호의 마지막 반복이라면
+                    //if (ending) {
+                    WholeRePlay();
+                    // ending = false;
+                    //}
+                    //ending = true;
+
+                }
+
+
+
+            }
+
+
+
+        }
+
+        function End() {
+            
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+            StopClock();
+
+            year = date.getFullYear();
+            month = date.getMonth() + 1;
+            day = date.getDate();
+            min = date.getMinutes();
+            hour = date.getHours();
+            
+           // 
+
+            //if (audioAble) {  }
+            
+            //soundEffect.src = 'sound/clap.mp3';
+            fileDisplayArea.innerText = TextFileName + "\n" + "학습이 완료" + "\n" + " 되었습니다." + "\n" + year + "/" + month + "/" + day + "/" + hour + "시" + min + "분";
+            //console.log("sss");
+            if (fileInput.files[0].name != null) {
+                fileDisplayArea.innerText = fileInput.files[0].name + "\n" + "학습이 완료" + "\n" + " 되었습니다." + "\n" + year + "/" + month + "/" + day + "/" + hour + "시" + min + "분";
+            } 
+
+            soundEffect.src = 'sound/clap.mp3';
+            //soundEffect.src = 'sound/clap.mp3';
+            //soundEffect.src = 'sound/clap.mp3';
+            // onClick of first interaction on page before I need the sounds
+            // (This is a tiny MP3 file that is silent and extremely short - retrieved from https://bigsoundbank.com and then modified)
+            //soundEffect.src = "data:audio/mpeg;base64,SUQzBAAAAAABEVRYWFgAAAAtAAADY29tbWVudABCaWdTb3VuZEJhbmsuY29tIC8gTGFTb25vdGhlcXVlLm9yZwBURU5DAAAAHQAAA1N3aXRjaCBQbHVzIMKpIE5DSCBTb2Z0d2FyZQBUSVQyAAAABgAAAzIyMzUAVFNTRQAAAA8AAANMYXZmNTcuODMuMTAwAAAAAAAAAAAAAAD/80DEAAAAA0gAAAAATEFNRTMuMTAwVVVVVVVVVVVVVUxBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQsRbAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQMSkAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV";
+
+            // later on when you actually want to play a sound at any point without user interaction
+            //setTimeout(function () { audio.play(); }, 2000);
+            setTimeout(function () { soundEffect.src = 'sound/clap.mp3'; }, 2000);
+            //soundEffect.src = 'sound/clap.mp3';
+            //fileDisplayArea.innerText = "학습이 완료" + "\n" + " 되었습니다." + "\n" + year + "/" + month + "/" + day + "/" + hour + "시" + min + "분";
+            //fileDisplayArea.innerText = "학습이 완료" + "\n" + " 되었습니다." ;
+        }
+        function WholeRePlay() {
+            //console.log(OneRepeatNow);
+
+
+            if (WholeNowRepeat != 1) {//전체반복이 마지막이 아니라면
+
+                temp_real_num = real_num;
+                //OneRepeatNow = OneRepeat;
+                //imfirst = true;
+                play();
+                WholeNowRepeat = WholeNowRepeat - 1;
+
+                temp_voc_kor = [...voc_kor_Store];
+                temp_voc_eng = [...voc_eng_Store];
+
+                temp_real_num = real_num;
+            } else {//전체반복이 마지막이라면
+                if (WholeNowRepeat == 1) {//전체반복이 마지막이라면
+                    if (OneRepeatNow > 1) {//단일 반복이 마지막이 아니라면
+                        play();//다시 재생
+                    } else {//단일 반복이 마지막이라면
+                        soundEffect.src = 'sound/clap.mp3';
+                        End();
+                    }
+
+                }
+            }
+
+
+        }
+
+
+
+
+
+
+
+
+
+        function getRandom(min, max) {
+            // console.log(min, max);
+            //console.log(temp_voc_kor, OneRepeatNow, OneRepeat);
+            return Math.floor((Math.random() * (max - min)) + min);
+
+        }
+
+        var voices = [];
+        function setVoiceList() {
+            // voices = window.speechSynthesis.getVoices();
+        }
+        //setVoiceList();
+        //if (window.speechSynthesis.onvoiceschanged !== undefined) {
+        //    window.speechSynthesis.onvoiceschanged = setVoiceList;
+        // }
+        var msg = new SpeechSynthesisUtterance();
+        var kormsg = new SpeechSynthesisUtterance();;
+
+        function ttsTest(gg) {
+            msg.lang = 'en-US';
+            //  msg.rate = 0.6; // 0.1 ~ 10
+            //  msg.pitch = 1.5; // 0 ~ 2
+            //msg.lang = English;
+            msg.text = temp_voc_eng[gg];
+            kormsg.text = temp_voc_kor[gg];
+
+
+            if (msg != "undefined") {
+
+                //speechSynthesis.speak(msg);
+                talk("ko", kormsg.text);
+                setTimeout(function () { talk("en", msg.text); }, 2500);
+                //talk("en", msg.text);
+                //talk("en", msg.text);
+
+
+                //responsiveVoice.speak(msg.text);
+
+                //var url = "https://translate.google.com/translate_tts?ie=UTF-8&q=" + msg + "&tl=en";
+
+                //여기야 여기 여길 바꿔%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+            }
+        }
+        //function setLang(langTxt) {
+        //     msg.lang = 'en-US';
+        //}
+        function Setting() {
+            var Sec = document.getElementById('Sec').value;
+            var Rpt = document.getElementById('Repeat').value;
+            var WhRpt = document.getElementById('WholeRepeat').value;//반복설정 값 받아오기
+            var fileDisplayArea = document.getElementById('fileDisplayArea');
+
+            SettingSec = Sec * 1000;
+            OneRepeat = Rpt;
+            OneRepeatNow = OneRepeat;
+            WholeRepeat = WhRpt;
+            WholeNowRepeat = WholeRepeat;
+            document.getElementById('jb').setAttribute('max', SettingSec);
+            
+            fileDisplayArea.innerHTML = Sec + "초   " + OneRepeat + "번씩 </br>" + WholeRepeat + "번  반복합니다.";
+            
+        }
+
+        function Setting2() {
+            var Sec = document.getElementById('Sec').value;
+            var Rpt = document.getElementById('Repeat').value;
+            var WhRpt = document.getElementById('WholeRepeat').value;//반복설정 값 받아오기
+           // var fileDisplayArea = document.getElementById('fileDisplayArea');
+
+            SettingSec = Sec * 1000;
+            OneRepeat = Rpt;
+            OneRepeatNow = OneRepeat;
+            WholeRepeat = WhRpt;
+            WholeNowRepeat = WholeRepeat;
+            document.getElementById('jb').setAttribute('max', SettingSec);
+        }
+
+
+        //팝업 레이어 시작
+        $('.btn-example').click(function () {
+            soundEffect.autoplay = true;
+            if (outable == true) {
+                var $href = $(this).attr('href');
+                layer_popup($href);
+            }
+        });
+        function layer_popup(el) {
+            soundEffect.autoplay = true;
+            var $el;       //레이어의 id를 $el 변수에 저장
+            var Sival;
+            console.log(el);
+            if (el == "#layer2") { Sival = '.dim-layer'; }
+            else { Sival = '.um-layer'; }
+
+            $el = $(el); 
+
+            var isDim = $el.prev().hasClass('dimBg');   //dimmed 레이어를 감지하기 위한 boolean 변수
+
+            isDim ? $(Sival).fadeIn() : $el.fadeIn();
+
+            var $elWidth = ~~($el.outerWidth()),
+                $elHeight = ~~($el.outerHeight()),
+                docWidth = $(document).width(),
+                docHeight = $(document).height();
+
+            // 화면의 중앙에 레이어를 띄운다.
+            if ($elHeight < docHeight || $elWidth < docWidth) {
+                soundEffect.autoplay = true;
+                $el.css({
+                    marginTop: -$elHeight / 2,
+                    marginLeft: -$elWidth / 2
+                })
+            } else {
+                $el.css({ top: 0, left: 0 });
+            }
+
+            $el.find('.btn-layerClose').click(function () {
+               // isDim ? $('.dim-layer').fadeOut() : $el.fadeOut();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                isDim ? $('.um-layer').fadeOut() : $el.fadeOut();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                Setting2()
+                //ClickAdd(this.id);
+                //Start();
+                soundEffect.autoplay = true;
+                return false;
+            });
+
+            $el.find('.btn-SettinglayerClose').click(function () {
+                isDim ? $('.dim-layer').fadeOut() : $el.fadeOut();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                //isDim ? $('.um-layer').fadeOut() : $el.fadeOut();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                Setting();
+                soundEffect.autoplay = true;
+                return false;
+            });
+            
+            $el.find('.btn-layerCloseCancle').click(function () {
+                isDim ? $('.dim-layer').fadeOut() : $el.fadeOut();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                isDim ? $('.um-layer').fadeOut() : $el.fadeOut();// 닫기 버튼을 클릭하면 레이어가 닫힌다.
+                //Setting();
+                soundEffect.autoplay = true;
+                return false;
+            });
+
+            $('.layer .dimBg').click(function () {
+                soundEffect.autoplay = true;
+                $('.dim-layer').fadeOut();
+                return false;
+            });
+
+
+
+        }
+
+        $(document).ready(function () {
+
+            $(".menu>div").click(function () {            
+                $(this).next("ul").toggleClass("hide");
+            });
+
+            $('.trigger').on('click', function () {
+                $('.modal-wrapper').toggleClass('open');
+                $('.page-wrapper').toggleClass('blur-it');
+                return false;
+
+
+            });
+        });
+        //----------------------------------
+        
+        //------------------
+
+    </script>
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!-- jQuery Easing -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- Flexslider -->
+    <script src="js/jquery.flexslider-min.js"></script>
+    <!-- Main -->
+    <script src="js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="speakClient.js"></script>
+    
+    
+
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=fkBWECqu"></script>
+
+
+
+
+
+
+    <style>
+        .h1 {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            max-width: 100%;
+            position: absolute;
+            text-align: center;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            vertical-align: middle
+        }
+
+        #jb {
+            width: 100%;
+            height: 20px;
+            color: #dd356e;
+        }
+    </style>
+
+    <!-- JavaScript Libraries -->
+    <style>
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: visible; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+            
+        }
+
+        /* Modal Content/Box */
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 30%; /* Could be more or less, depending on screen size */
+        }
+
+        .modal-body {
+            /*height: 100%;*/
+            /*overflow-y: auto;*/
+        }
+
+
+        .number{
+            margin-left:auto;
+            margin-right:auto;
+            text-align:center;
+            left:50%;
+        }
+        .MainBtn {
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            left: 50%;
+        }
+
+        progress {
+            height: 50px;
+            -webkit-appearance: none;
+            appearance: none;
+            color: #dd356e;
+        }
+
+            progress::-moz-progress-bar {
+                background-color: grey;
+            }
+
+            progress::-webkit-progress-value {
+                background-color: #dd356e;
+            }
+
+
+        .fh5co-nav .header {
+            display: flex;
+            justify-content: space-between;
+        }
+
+
+           .menu a {
+            cursor: pointer;
+        }
+
+             .menu .hide {
+            display: none;
+        }
+
+       
+
+        .page-wrapper {
+            width: 100%;
+            height: 100%;
+            background: url(https://goo.gl/OeVhun) center no-repeat;
+            background-size: cover;
+        }
+
+        .blur-it {
+            filter: blur(4px);
+        }
+
+        a.btn {
+            width: 200px;
+            padding: 18px 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            text-align: center;
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #fff;
+            border-radius: 0;
+            background: #e2525c;
+        }
+
+
+
+
+        .modal-wrapper {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background: rgba(41, 171, 164, 0.8);
+            visibility: hidden;
+            opacity: 0;
+            transition: all 0.25s ease-in-out;
+        }
+
+            .modal-wrapper.open {
+                opacity: 1;
+                visibility: visible;
+            }
+
+        
+
+        .modal-wrapper.open  {
+            margin-top: -200px;
+            opacity: 1;
+        }
+
+        .head {
+            width: 90%;
+            height: 32px;
+            padding: 12px 30px;
+            overflow: hidden;
+            background: #e2525c;
+        }
+
+        .btn-close {
+            font-size: 28px;
+            display: block;
+            float: right;
+            color: #fff;
+        }
+
+        .content {
+            padding: 10%;
+        }
+
+        .good-job {
+            text-align: center;
+            font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+            color: #e2525c;
+        }
+
+            .good-job .fa-thumbs-o-up {
+                font-size: 60px;
+            }
+
+            .good-job h1 {
+                font-size: 45px;
+            }
+
+        .wrap {
+            width: 70%;
+            text-align: center;
+            margin: 0px auto;
+        }
+
+            .wrap img {
+                width: 100%;
+                height: auto
+            }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            margin: 100px;
+        }
+
+        .fh5co-nav ul li a {
+            padding-bottom:5px;
+            padding-top :5px;
+        }
+        .pop-layer .pop-container {
+            display: flex;
+            justify-content: center;
+            align-items: start;
+            padding: 20px 25px;
+            
+            overflow-y: auto;
+            max-height: 500px;
+            min-height: 500px;
+        }
+
+        .pop-layer div.ctxt {
+            font-size: 20px;
+            font-weight: 700;
+            color: #dd356e;
+            line-height: 25px;
+        }
+
+            .pop-layer div.ctxt .setting-wrap {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+                .pop-layer div.ctxt .setting-wrap .set-conts {
+                    justify-content: space-around;
+                }
+
+                    .pop-layer div.ctxt .setting-wrap .set-conts .btn:hover {
+                        cursor: pointer;
+                    }
+
+
+        .input-conts {
+            width: 100px;
+            margin-left: 10px;
+            font-weight: 700;
+            text-align: center;
+        }
+
+        .set-conts {
+            display: flex;
+            width: 100px;
+            height: 40px;
+            margin: 8px 0;
+            margin-left: 10px;
+            font-weight: 700;
+            text-align: center;
+            background-color: #fff;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .pop-layer .btn-wrapper {
+            display: flex;
+            justify-content: space-between;
+            padding: 0 20px;
+        }
+
+        .pop-layer .btn-r {
+            font-size: 20px;
+            font-weight: 700;
+            color: #FFFFE5;
+            width: 30%;
+            margin-top: 10px;
+            border: none;
+            border-radius: 20px;
+            background-color: #dd356e;
+            text-align: center;
+        }
+
+        .pop-layer {
+            position: absolute;
+            border-radius: 20px;
+            top: 50%;
+            left: 50%;
+            width: 410px;
+            height: auto;
+            background-color: #FFFFE5;
+            border: 5px solid #DF9BB2;
+            z-index: 10;
+        }
+
+        .dim-layer {
+            display: none;
+            position: fixed;
+            _position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 100;
+        }
+
+            .dim-layer .dimBg {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: #000;
+                opacity: .5;
+                filter: alpha(opacity=50);
+            }
+
+            .dim-layer .pop-layer {
+                display: block;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .um-layer {
+            display: none;
+            position: fixed;
+            _position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 100;
+        }
+
+            .um-layer .dimBg {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: #000;
+                opacity: .5;
+                filter: alpha(opacity=50);
+            }
+
+            .um-layer .pop-layer {
+                display: block;
+            }
+
+
+
+        .btn-layerClose { /*버튼 속성*/
+            font-size: 20px;
+            font-weight: 700;
+            color: #FFFFE5;
+            width: 30%;
+            margin-top: 10px;
+            border: none;
+            border-radius: 20px;
+            background-color: #f2c259;
+            text-align: center;
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+            .btn-layerClose:hover {
+                border: 1px solid #091940;
+                background-color: #1f326a;
+                color: #fff;
+            }
+
+        .filebox label {
+            display: inline-block;
+            min-width: 100px;
+            position: absolute;
+            padding: .5em .75em;
+            color: #fff;
+            font-size: inherit;
+            line-height: normal;
+            vertical-align: middle;
+            background-color: #dd356e;
+            cursor: pointer;
+            border: 0px solid #4cae4c;
+            border-radius: 100px;
+            -webkit-transition: background-color 0.2s;
+            transition: background-color 0.2s;
+        }
+
+            .filebox label:hover {
+                -webkit-box-shadow: 0px 14px 20px -9px rgba(0,0,0,0.75);
+                -moz-box-shadow: 0px 14px 20px -9px rgba(0,0,0,0.75);
+                box-shadow: 0px 14px 20px -9px rgba(0,0,0,0.75);
+            }
+
+            .filebox label:active {
+                background-color: #DF0174;
+            }
+
+        .filebox input[type="file"] {
+            position: absolute;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        .img-cloud {
+            width: 60px;
+            padding: 5px;
+            background-color: #DF0174;
+            border-radius: 100px;
+            float: right;
+        }
+
+        .img-setting {
+            width: 40px;
+        }
+
+        .right-btn {
+            display: flex;
+            float: right;
+        }
+    </style>
+
+
+
+</body>
+</html>
